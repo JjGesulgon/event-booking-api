@@ -5,3 +5,4 @@
 .env.backup
 npm-debug.log
 yarn-error.log
+/server/nodemon.json
